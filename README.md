@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hello, this is my Profile (mostly about games) on Github 🌟</h1>
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KfpunBLhzbO9-t4fYlEC1UWyO6qAer3lnw&s" width="400" alt="Genshin Impact Kokomi Image"/>
+  <img src="https://static.wikia.nocookie.net/gensin-impact/images/7/70/Namecard_Background_Sangonomiya_Kokomi_The_Deep.png/revision/latest/scale-to-width/360?cb=20210902035100" width="100%" alt="Watatsumi Banner"/>
 </div>
 
 ### 🌍 About Me
