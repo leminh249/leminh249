@@ -18,7 +18,6 @@
 *   **Adventurer Rank:** 60
 *   **World Level:** 9
 *   **UID:** `806644256`
-*   **Discord:** `leminh249`
 *   **Enka.Network:** [My Enka.Network Profile](https://enka.network/u/806644256/)
 
 ### ✨ My Main Characters
@@ -33,8 +32,12 @@
 </div>
 
 ### 📬 Contact Me
-<div align="center">
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminh_249)
+<div align="start">
+  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminh249)
+<br>
+![Discord](https://img.shields.io/badge/Discord-leminh249-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 </div>
 ---
 > *"Feel free to contact me!"*
