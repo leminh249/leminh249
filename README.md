@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🌟 Hello, this is my Card Game Profile in Github 🌟
 
-<!--
-**leminh249/leminh249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KfpunBLhzbO9-t4fYlEC1UWyO6qAer3lnw&s" width="400" alt="Genshin Impact Kokomi Image"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Genshin Profile Card
+*   **Server:** Asia
+*   **Adventurer Rank:** 60
+*   **World Level:** 9
+*   **Name:**  Tabibito
+*   **UID:** `806644256`
+*   **Discord:** `leminh249`
