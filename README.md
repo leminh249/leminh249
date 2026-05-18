@@ -36,7 +36,7 @@
   
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminh_249)
 <br>
-<img src="https://lanyard.cnrad.dev/api/849315181624033340" width="300" alt="Discord Profile"/>
+[![Discord](https://img.shields.io/badge/Discord-leminh249-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/849315181624033340)
 
 </div>
 ---
