@@ -1,8 +1,19 @@
-<h1 align="center">🌟 Hello, this is my Card Game Profile on Github 🌟</h1>
+<h1 align="center">🌟 Hello, this is my Profile (mostly about game) on Github 🌟</h1>
 
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KfpunBLhzbO9-t4fYlEC1UWyO6qAer3lnw&s" width="400" alt="Genshin Impact Kokomi Image"/>
 </div>
+
+
+
+### Introduce Myself
+---
+*   **Name:** Minh
+*   **Age:** 19
+*   **Education:** Currently studying at [CMC University] 📚
+*   **Location:** Hanoi 🇻🇳
+*   **Hobbies:** Listening to music 🎧, watching Anime 🎬, playing video games 🛵,...
+
 
 ### 🎮 Genshin Profile Card
 *   **Server:** Asia
