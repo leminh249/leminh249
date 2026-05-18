@@ -34,7 +34,7 @@
 ### 📬 Contact Me
 <div align="start">
   
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminh249)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/leminh_249)
 <br>
 ![Discord](https://img.shields.io/badge/Discord-leminh249-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
