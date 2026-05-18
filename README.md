@@ -1,7 +1,7 @@
-# 🌟 Hello, this is my Card Game Profile in Github 🌟
+<h1 align="center">🌟 Hello, this is my Card Game Profile on Github 🌟</h1>
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KfpunBLhzbO9-t4fYlEC1UWyO6qAer3lnw&s" width="400" alt="Genshin Impact Kokomi Image"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6KfpunBLhzbO9-t4fYlEC1UWyO6qAer3lnw&s" width="400" alt="Genshin Impact Kokomi Image"/>
 </div>
 
 ### 🎮 Genshin Profile Card
@@ -10,7 +10,10 @@
 *   **World Level:** 9
 *   **UID:** `806644256`
 *   **Discord:** `leminh249`
-*   ### ✨ My Main Characters
+*   **Enka.Network:** [My Enka.Network Profile](https://enka.network/u/806644256/)
+
+### ✨ My Main Characters
+
 <div align="center">
 
 | Name Character | Avatar |
@@ -20,6 +23,6 @@
 | 🪷 **Nilou** | <img src="https://static.wikia.nocookie.net/gensin-impact/images/b/b3/Nilou_Breeze_of_Sabaa_Avatar.png/revision/latest/scale-to-width-down/50?cb=20240718004317" width="80" alt="Nilou"/> |
 
 </div>
-*   **Enka.Network:** [My Enka.Network Profile](https://enka.network/u/806644256/)
+
 ---
-> *"Feel free to contact me
+> *"Feel free to contact me!"*
